@@ -1,0 +1,29 @@
+.medium-image {
+  width: 5vw;
+  height: 30vh;
+  margin-top: 30px;
+}
+
+h2 {
+  color: white;
+}
+
+h4 {
+  color: white;
+  justify-content: center;
+}
+
+h1 {
+  color: orange;
+  align-items: stretch;
+}
+
+ul {
+  color: white;
+}
+
+
+
+body {
+  background-image: url(/Users/elisa/codeclan_work/week_07/Weekend_homework_pubsub_api/hw_beer_app/public/images/Free-Beer-Background-background-photos-windows-mac-wallpapers-tablet-4k-samsung-wallpapers-wallpaper-for-iphone-free-1920x1080.jpg);
+}
