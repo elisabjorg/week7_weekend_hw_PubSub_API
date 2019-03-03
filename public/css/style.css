@@ -5,17 +5,19 @@
 }
 
 h2 {
-  color: white;
+  color: red;
 }
 
 h4 {
   color: white;
   justify-content: center;
+  font-style: italic;
+  font-family: inherit;
 }
 
 h1 {
   color: orange;
-  align-items: stretch;
+  align-items: center;
 }
 
 ul {
